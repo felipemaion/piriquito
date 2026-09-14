@@ -11,7 +11,7 @@ dependencies:
   connectivity_plus: ^7.3.1
   crypto: ^3.0.7
   dio: ^5.11.1
-  drift: ^2.34.4
+  drift: ^2.35.0
   drift_flutter: ^0.3.1
   file_picker: ^12.2.0
   firebase_core: ^4.14.0
