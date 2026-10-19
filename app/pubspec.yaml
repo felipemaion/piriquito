@@ -8,30 +8,30 @@ environment:
 
 dependencies:
   async: ^2.13.1
-  connectivity_plus: ^7.3.1
+  connectivity_plus: ^7.3.2
   crypto: ^3.0.7
   dio: ^5.11.1
-  drift: ^2.34.4
+  drift: ^2.35.2
   drift_flutter: ^0.3.1
-  file_picker: ^12.2.0
-  firebase_core: ^4.14.0
-  firebase_messaging: ^16.6.0
+  file_picker: ^13.1.0
+  firebase_core: ^4.15.0
+  firebase_messaging: ^16.7.0
   flutter:
     sdk: flutter
-  flutter_local_notifications: ^22.3.0
+  flutter_local_notifications: ^22.3.2
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^3.4.3
-  flutter_secure_storage: ^11.0.0
-  go_router: ^18.0.1
+  flutter_secure_storage: ^11.2.0
+  go_router: ^18.1.0
   intl: ^0.20.3
   json_annotation: ^4.12.0
-  mobile_scanner: ^7.4.0
-  open_filex: ^4.7.0
+  mobile_scanner: ^7.4.2
+  open_filex: ^5.0.0
   path: ^1.9.1
   path_provider: ^2.1.6
   qr_flutter: ^4.1.0
-  sodium: ^4.1.0
+  sodium: ^4.1.2
   uuid: ^4.6.0
   web_socket_channel: ^3.0.3
   window_manager: ^0.5.2
